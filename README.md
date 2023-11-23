@@ -16,7 +16,6 @@ Welcome to the Traffic Analysis project, a comprehensive exploration of traffic-
 8. [How to Use](#how-to-use)
 9. [Dependencies](#dependencies)
 10. [Contributing](#contributing)
-11. [License](#license)
 
 ## Introduction
 
@@ -79,11 +78,5 @@ The project is dependent on Power BI Desktop for data visualization and analysis
 ## Contributing
 
 Contributions are welcome! If you have ideas for improvements, bug fixes, or new features, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute the code for personal or commercial purposes.
-
-Feel free to reach out for any questions or support related to the Traffic Analysis project.
 
 Drive safely!
